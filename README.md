@@ -7,3 +7,8 @@
   3. **U**pdate -> PUT operation
   4. **D**elete -> DELETE operation
  
+### Technologies Used 
+  1. Spring MVC for Web Interface
+  2. Spring Security for disabling csrf() token inorder to use PostMan as REST client
+  3. POSTMAN
+  4. Spring REST
