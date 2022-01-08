@@ -12,3 +12,14 @@
   2. Spring Security for disabling csrf() token inorder to use PostMan as REST client
   3. POSTMAN
   4. Spring REST
+
+### Screenshots
+
+#### GET
+![Alt text](/Screenshots/GET.png?raw=true)
+#### POST
+![Alt text](/Screenshots/POST.png?raw=true)
+#### PUT
+![Alt text](/Screenshots/PUT.png?raw=true)
+#### DELETE
+![Alt text](/Screenshots/DELETE.png?raw=true)
